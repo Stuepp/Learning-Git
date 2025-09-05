@@ -10,13 +10,13 @@ st.set_page_config(layout='wide')
 # Remote repository updated, now it's diff from local one -- Answears section
 
 def main():
-  df = load_data()
+  df_raw = load_data()
 
   # callign data modification section
 
   # calling answears section
 
-  st.dataframe(df)
+  return None
 
 if __name__ == '__main__':
   main()
