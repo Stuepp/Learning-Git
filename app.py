@@ -13,6 +13,8 @@ st.set_page_config(layout='wide')
 
 # random modification
 
+# NOT SO SUPER SOLUTION
+
 def main():
   df_raw = load_data()
 
@@ -21,6 +23,8 @@ def main():
   # calling answears section
 
   # calling operation function
+
+  # calling NOT SO SUPER SOLUTION function
 
   return None
 
