@@ -7,6 +7,8 @@ st.set_page_config(layout='wide')
 
 # Data description modification
 
+# Remote repository updated, now it's diff from local one -- Answears section
+
 def main():
   df_raw = load_data()
 
