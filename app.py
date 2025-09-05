@@ -9,12 +9,16 @@ st.set_page_config(layout='wide')
 
 # Remote repository updated, now it's diff from local one -- Answears section
 
+#  operation function
+
 def main():
   df_raw = load_data()
 
   # callign data modification section
 
   # calling answears section
+
+  # calling operation function
 
   return None
 
